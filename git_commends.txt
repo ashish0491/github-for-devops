@@ -1,0 +1,7 @@
+git init
+clear
+git status
+git add testing.py  git add .
+git status
+git commit -m "added testing files"
+git status
