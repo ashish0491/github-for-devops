@@ -6,5 +6,6 @@ git status
 git commit -m "added testing files"
 git status
 git push origin master or git remote set-url origin https://token@github.com/ashish0491/github-for-devops.git
-
+git push origin master
+git pull origin master
 this is new changes
